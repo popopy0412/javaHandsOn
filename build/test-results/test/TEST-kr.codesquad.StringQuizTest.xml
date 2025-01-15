@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="kr.codesquad.StringQuizTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-08T03:10:48" hostname="seongpil-ui-MacBookAir.local" time="0.005">
-  <properties/>
-  <testcase name="StringBuilder을 이용해 String을 거꾸로 출력하기" classname="kr.codesquad.StringQuizTest" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

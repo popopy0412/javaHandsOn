@@ -51,7 +51,7 @@ class ListQuizTest {
     @DisplayName("배열에서 세번째 값을 삭제")
     public void testDeleteThirdValue () {
         // TODO 6 배열에서 1번 값을 삭제
-        sampleList.remove(0);
+        sampleList.removeFirst();
         assertFalse(sampleList.contains('e'));
     }
 

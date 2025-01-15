@@ -1,0 +1,48 @@
+# IntelliJ IDEA 설정 파일
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven 빌드 파일
+target/
+
+# Gradle 빌드 파일
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle-cache/
+.gradle/gradle-wrapper.properties
+
+# 클래스 파일 및 IDE 관련 캐시
+*.class
+*.log
+*.hprof
+*.swp
+*.swo
+*.DS_Store
+
+# OS 및 에디터 특정 파일
+*.tmp
+*.bak
+*.~*
+Thumbs.db
+desktop.ini
+
+# Java 특정 파일
+*.war
+*.ear
+
+# 로그 및 임시 파일
+logs/
+*.log
+*.out
+*.pid
+
+# 테스트 보고서
+test-results/
+surefire-reports/
+.jacoco/
+
+# Java 라이브러리 폴더
+lib/
